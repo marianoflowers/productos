@@ -4,5 +4,5 @@
     { "id": 3, "descripcion": "Adidas Green", "precio": 27000, "imagen": "adidas.jpg", "infoExtra": "+ más características del producto" },
     { "id": 4, "descripcion": "Nike Colors", "precio": 39000, "imagen": "nike.jpg", "infoExtra": "+ más características del producto" },
     { "id": 5, "descripcion": "NB War", "precio": 45000, "imagen": "newBalance.jpg", "infoExtra": "+ más características del producto" },
-    { "id": 6, "descripcion": "Topper Pink", "precio": 28000, "imagen": "topper.jpg", "infoExtra": "+ más características del producto" },
+    { "id": 6, "descripcion": "Topper Pink", "precio": 28000, "imagen": "topper.jpg", "infoExtra": "+ más características del producto" }
 ]
